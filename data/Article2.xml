@@ -6,8 +6,8 @@
       <fileDesc>
          <titleStmt>
             <title>40 Stage Sit Ins; No Arrests</title>
-            <author><persName xml:id="Kaltizer">Katie Altizer</persName>
-            <orgName xml:id="UMD">University of Maryland"></orgName>
+              <author><persName xml:id="Kaltizer">Katie Altizer</persName>
+                <orgName xml:id="UMD">University of Maryland"></orgName>
             </author>
             <respStmt>
               <resp>encoded by</resp>
@@ -21,17 +21,17 @@
                <settlement>College Park</settlement>
                <region>Maryland</region>
             </pubPlace>
-            <date when="2017-4-5">March 5 2018</date>
+            <date when="2017-04-05">March 5 2018</date>
          </publicationStmt>
          <sourceDesc>
           <bibl>
               <title>The Diamondback</title>
-              <publisherorgName>The University of Maryland</orgName></publisher>
+              <publisher>The University of Maryland</publisher>
               <pubPlace>
                 <settlement>College Park</settlement>
               <region>Maryland</region>
             </pubPlace>
-            <date when="1962-2-27">February 27 1962</date>
+            <date when="1962-02-27">February 27 1962</date>
           </bibl>
          </sourceDesc>
       </fileDesc>
