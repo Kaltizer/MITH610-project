@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">"Negro woman has a culture"</title>
+            <title type="sub"> Panhel hears black Dean</title>
+            <title type="sub">Digital Edition</title>
+            <author><persName xml : id="Kaltizer">Katie Altizer</persName><orgName>University of Maryland</orgName>
+          </author>
+          <respStnt>
+            <resp> Encoded by </resp>
+            <persName ref="#Kaltizer"> Katie Altizer</persName>
+         </titleStmt>
+         <publicationStmt>
+            <publisher> Maryland Institute of Technology in the Humanities </publisher>
+            <pubPlace> <settlement>College Park </settlement><region>MD</region></pubPlace>
+            <date when=2018-4-3">March 4 2018></date>
+         </publicationStmt>
+         <sourceDesc>
+           <bibl>
+             <title> The Diamondback </title>
+             <publisher><orgName>The University of Maryland</orgName></publisher>
+             <pubPlace>
+               <settlement>College Park</settlement>
+               <region>MD</region>
+             </pubPlace>
+               <date when="1969-4-14"> April 14 1969 </date>
+          </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <p>The Negro college woman no
+longer waits for acceptance by
+white society. She has her own
+culture, according to a <orgName>Federal
+City College</orgName> official.</p>
+<p>This was the brunt of the speech
+given by <persName><forename>Barbara</forename><surname>Hatton</surname></persName>,
+as­<lb/>
+sistant dean of student services
+at <orgName>FCC</orgName>, to an attentive audience
+<<<<<<< HEAD
+of about 600 at a <orgName>Panhellenic</orgName> con­<lb/>
+ference in the <placeName>chapel</placeName> Saturday
+morning.</p>
+=======
+of about 600 at a Panhellenic con­<lb/>
+ference in the <placeName>chapel</placeName> <date=" 1969-04-12">Saturday
+  morning</date>.</p>
+>>>>>>> dcf64b6799abb78eb2f0eec11ced17dbd4bbe210
+<p>Speaking without notes, <persName>Miss
+Hatton</persName> attempted to give the
+sorority girls an idea of where
+the greek system stands in re­<lb/>
+lation to racial integration.</p>
+<p>“Rushing out and bringing
+people (blacks) into a white thing
+isn’t wanted anymore,” <persName>Miss
+  <surname>Hatton</surname></persName> said.</p>
+<p>According to her, black col­<lb/>
+lege women now have their own
+concept of beauty and culture
+and it has nothing to do with the
+“narrow concepts we get from
+TV."</p>
+<p>Black women do not want to
+be accepted as equal,<persName>Miss Hat<lb/>­
+ton</persName> said.</p>
+<p>“We want to be accepted as we
+are; black with our own way of
+doing things. I don’t like to
+explain away black folks. An
+explanation shouldn’t be needed.”
+An attitude generally confused
+with good race relations is to “go
+around loving everybody,” she
+said.</p>
+<p>“You can’t possibly love
+everybody you meet. What is
+needed in any relationship is
+pride and skills and we’ve
+(blacks) got to bring these in.
+That’s what we’re doing now.”</p>
+<p><persName>Miss Hatton</persName> concluded by say­<lb/>
+ing that the important thing for
+each sorority to do is to examine
+its feelings and see what is real
+and meaningful in its social and
+racial relations.</p>
+<p>The speech was preceded by a
+poetry reading by <persName>Adwole</persName>, a poet
+from <orgName>Afro-American Living Arts
+of Washington</orgName>. The poems ranged
+in message from utopian brother­<lb/>
+hood to black militancy and from
+social Injustice to intermarriage. </p>
+<p>The <orgName>African Heritage Dancers
+and Drummers</orgName> performed three
+dances; one used as a greeting,
+another performed at weddings
+and one in honor of a great war<lb/>f­
+rior.</p>
+<p>The conference also hosted a
+preview of the <orgName>Black Student
+  <sic>Uhion</sic> dancers</orgName>’recital. The
+theme of the program was history
+of the American Negro, from his
+comfort in a native culture to
+his search for identity now.</p>
+<p>“The conference was meant
+to expose the girls to this cul­<lb/>
+ture,” said <persName><forename>Debbie</forename><surname>Jennings</surname></persName>, sec­<lb/>
+  ond <persName>vice president</persName> of <orgName>Panhel</orgName>.
+“We don’t know yet how it
+will affect each sorority’s poli­<lb/>
+cies.”</p>
+        <p>One <persName>sorority girl</persName> commented,
+“Some of the houses are really
+for integration and others are
+dead against it. But I think
+  we’ll have some <orgName>black greeks</orgName>
+next year whether some girls
+want it or not. We’re under a
+lot of pressure.”</p>
+      </body>
+  </text>
+</TEI>
