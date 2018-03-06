@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>40 Stage Sit Ins; No Arrests</title>
+            <author><persName xml:id="Kaltizer">Katie Altizer</persName>
+            <orgName xml:id="UMD">University of Maryland"></orgName>
+            </author>
+            <respStmt>
+              <resp>encoded by</resp>
+              <persName ref="#Kaltizer">Katie Altizer</persName>
+              </respStmt>
+        </titleStmt>
+         <publicationStmt>
+           <publisher>
+             <orgName>Maryland Institute for Technology in the Humanities</orgName></publisher>
+             <pubPlace>
+               <settlement>College Park</settlement>
+               <region>Maryland</region>
+            </pubPlace>
+            <date when="2017-4-5">March 5 2018</date>
+         </publicationStmt>
+         <sourceDesc>
+          <bibl>
+              <title>The Diamondback</title>
+              <publisherorgName>The University of Maryland</orgName></publisher>
+              <pubPlace>
+                <settlement>College Park</settlement>
+              <region>Maryland</region>
+            </pubPlace>
+            <date when="1962-2-27">February 27 1962</date>
+          </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Forty University of Maryland
+students attempted sit-ins Sat­
+urday at five College Park area
+restaurants. There were no ar<l/>­
+rests.</p>
+<p>The students, members of
+<orgName>COKE</orgName>, were served without in­<l/>
+cident at <placeName>Ledo’s Restaurant</placeName> and
+the <placeName>Federal Diner</placeName>, but were re­<l/>
+fused service at Jimmy Comb­<l/>
+er’s, the <placeName>College Inn</placeName>,and the
+<placeName>Olde Dutch Inn</placeName>. A few non-stu­<l/>
+dents demonstrated with the
+group.</p>
+<p>Nineteen white and Negro
+students sat in the main dining
+room of Jimmy Comber’s
+four hours while small, rotating
+groups picketed outside on the
+sidewalk facing <placeName>University
+Boulevard</placeName>.</p>
+<p>The picketers marched, brac­<l/>
+ing against the wind, singing
+“Woke up this morning with my
+mind set on freedom.” They
+bore placards reading “Make
+the Free State Free for All,”
+and “Service for All Citizens.”
+Inside the restaurant, <persName>Jimmy
+Comber</persName> told Diamondback re­<l/>
+porters, “I don’t mind serving
+colored people. I don’t care one
+way or another; but I think my
+clientele would mind, so I don’t
+serve them.</p>
+<p>“I wish the state of Mary­
+land would pass a law requir­<l/>
+ing equal service so that I
+could serve everyone without
+objection from my regular cus­<l/>
+tomers.”</p>
+<p>Two men walked into the res­<l/>
+taurant and offered to bring in
+dogs to “clean out the place.”
+<persName>Comber</persName> ordered them off the
+premises.</p>
+<p>At 3 p.m. the sit-inners left
+en masse accompanied by de­<l/>
+risive applause from the pa­<l/>
+trons of the restaurant.
+A smaller group of demon­<l/>
+strators was locked out of the
+<placeName>College Inn</placeName> on <placeName>Route 1</placeName> before
+they could gain entrance. They
+were ordered off the premises
+by county <orgName>police</orgName> and not allow­<l/>
+ed to picket because the Inn’s
+property extended to <placeName>Route 1<placeName>.
+Another group was locked out
+of the <placeName>Terrapin Inn</placeName>.</p>
+<p>Six students were refused
+service at <placeName>Ye Olde Dutch Inn</placeName> in
+<placeName>Riverdale</placeName>. The waitress told
+them that it was not the res­<l/>
+taurant’s policy to serve mixed
+groups. The group read the
+fourteenth amendment to the
+manager and left.</p>
+<p><persName><forename>Marvin A.</forename><surname>Raps</surname></persName>, president of
+the <placeName>Prince George's County</placeName>
+<orgName>CORE</orgName>, called the demonstra­<l/>
+tions “very effective.”</p>
+<p><persName>Raps </persName>is a graduate student at
+He was arrested on
+<date when="1962-1-27">Jan. 27</date> at a sit-in at <placeName>Park Col­<l/>
+lege Diner<placeName>. The case was thrown
+out.</p>
+      </body>
+  </text>
+</TEI>

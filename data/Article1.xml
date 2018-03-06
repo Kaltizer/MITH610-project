@@ -1,0 +1,115 @@
+<?xml​​version="1.0"​​encoding="UTF-8">
+<?xml-model
+href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/sc
+hema/relaxng/tei_all.rng"​​type="application/xml"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model
+href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/sc
+hema/relaxng/tei_all.rng"​​type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<​TEI​​​​xmlns​="​http://www.tei-c.org/ns/1.0​">
+​​​​  <​teiHeader​>
+    <​fileDesc​>
+​         <​titleStmt​>
+​           <​title​>​'Negro woman has a culture: Panhel hears black dean</​title​>
+​         </​titleStmt​>
+​         <​publicationStmt​>
+​           <​p​>​Publication​​Information​</​p​>
+        </​publicationStmt​>
+        <​sourceDesc​>
+​​​​​​​​​           <​p​>​Information​​about​​the​​source​</​p​>
+        </​sourceDesc​>
+​   </​fileDesc​>
+​</​teiHeader​>
+​<​text​>
+  <​body​>
+​     <​p​>​The Negro college woman no
+longer waits for acceptance by
+white society. She has her own
+culture, according to a Federal
+City <correction>College</correction> official.
+This was the brunt of the speech
+given by Barbara Hatton, as­
+sistant dean of student services
+at <organization>FCC</organization>, to an attentive audience
+of about 600 at a <organization><correction>Panhellenic</correction></organization> con­
+ference in the <UMD-Memorial-Chapel>chapel</UMD-Memorial-Chapel> Saturday
+morning.
+Speaking without notes, Miss
+Hatton attempted to give the
+sorority girls an idea of where
+the greek system stands in re­
+lation to racial integration.
+“Rushing out and bringing
+people <editorial-insertion>(blacks)</editorial-insertion> into a white thing
+isn’t wanted anymore,” Miss
+Hatton said.
+According to her, black col­
+lege women now have their own
+concept of beauty and culture
+and it has nothing to do with the
+“narrow concepts we get from
+TV.”
+Black women do not want to
+be accepted as equal, Miss Hat­
+ton said.
+“We want to be accepted as we
+are; black with our own way of
+doing things. I don’t like to
+explain away black folks. An
+explanation shouldn’t be needed.”
+An attitude generally confused
+with good race relations is to “go
+around loving everybody,” she
+said.
+“You can’t possibly love
+everybody you meet. What is
+needed in any relationship is
+pride and skills and we’ve
+<editorial-insertion>(blacks)</editiorial-insertion> got to bring these in.
+That’s what we’re doing now.”
+Miss Hatton concluded by say­
+ing that the important thing for
+each <organization>sorority</organization> to do is to examine
+its feelings and see what is real
+and meaningful in its social and
+racial relations.
+The speech was preceded by a
+poetry reading by Adwole, a poet
+from <cultural-institution>Afro-American Living Arts
+of Washington</cultural-institution>. The poems ranged
+in message from utopian brother­
+hood to black militancy and from
+social Injustice to intermarriage.
+The African Heritage Dancers
+and Drummers performed three
+dances; one used as a greeting,
+another performed at weddings
+and one in honor of a great war­
+rior.
+The conference also hosted a
+preview of the Black Student
+Uhion dancers’ recital. The
+theme of the program was history
+of the American Negro, from his
+comfort in a native culture to
+his search for identity now.
+“The conference was meant
+to expose the girls to this cul­
+ture,” said Debbie Jennings, sec­
+ond vice president of <organization>Panhel</organization>.
+“We don’t know yet how it
+will affect each sorority’s poli­
+cies.”
+One sorority girl commented,
+“Some of the houses are really
+for integration and others are
+dead against it. But I think
+we’ll have some black greeks
+next year whether some girls
+want it or not. We’re under a
+lot of pressure.”
+      </​p​>
+​​​​​​​   </​body​>
+​ </​text​>
+</​TEI​>
