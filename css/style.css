@@ -7,3 +7,5 @@ tei-teiHeader {
   display: none;
 }
 tei-supplied {color: red;}
+
+tei-orgName {color:red;}

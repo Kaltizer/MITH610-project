@@ -35,6 +35,11 @@
                <region>MD</region>
              </pubPlace>
                <date when="1969-04-14"> April 14 1969 </date>
+               <edition></edition>
+               <persName xml:id="BW">Black and African American women</persName>
+               <persName xml:id="WW">White women</persName>
+               <persName xml:id="BH">Barbara Hatton</persName>
+               <orgName xml:id="PH">Panhellenic Conference-Sorority</orgName>
           </bibl>
          </sourceDesc>
       </fileDesc>
@@ -43,10 +48,11 @@
              <language ident="en-US">United States English</language>
          </langUsage>
        </profileDesc>
+
   </teiHeader>
   <text>
       <body>
-        <p>The Negro college woman no
+        <p>The <persName ref="#BW">Negro college woman</persName> no
 longer waits for acceptance by
 white society. She has her own
 culture, according to a <orgName>Federal
@@ -55,28 +61,25 @@ City College</orgName> official.</p>
 given by <persName><forename>Barbara</forename><surname>Hatton</surname></persName>,as­<lb/>
 sistant dean of student services
 at <orgName>FCC</orgName>, to an attentive audience
-of about 600 at a <orgName>Panhellenic</orgName> con­<lb/>
-ference in the <placeName>chapel</placeName> Saturday
-morning.</p>
-<p>of about 600 at a Panhellenic con­<lb/>
+of about <persName ref="#WW">600</persName> at a <orgName ref="#PH">Panhellenic</orgName> con­<lb/>
 ference in the <placeName>chapel</placeName> <date>=" 1969-04-12">Saturday
 morning</date>.</p>
-<p>Speaking without notes, <persName>Miss
+<p>Speaking without notes, <persName ref="#BH">Miss
 Hatton</persName> attempted to give the
-sorority girls an idea of where
-the greek system stands in re­<lb/>
+<persName ref="#WW">sorority girls</persName> an idea of where
+the <orgName ref="#PH">greek system</orgName> stands in re­<lb/>
 lation to racial integration.</p>
 <p>“Rushing out and bringing
-people (blacks) into a white thing
+<persName ref="#BW">people</persName>(blacks)into a white thing
 isn’t wanted anymore,” <persName>Miss
   <surname>Hatton</surname></persName> said.</p>
-<p>According to her, black
-col­lege women now have their own
+<p>According to her, <persName ref="#BW">black
+col­lege women</persName> now have their own
 concept of beauty and culture
 and it has nothing to do with the
 “narrow concepts we get from
 TV."</p>
-<p>Black women do not want to
+<p><persName ref="#BW">Black women</persName> do not want to
 be accepted as equal,<persName>Miss Hat<lb/>­
 ton</persName> said.</p>
 <p>“We want to be accepted as we
@@ -96,7 +99,7 @@ pride and skills and we’ve
 That’s what we’re doing now.”</p>
 <p><persName>Miss Hatton</persName> concluded by say­<lb/>
 ing that the important thing for
-each sorority to do is to examine
+each <orgName ref="#PH">sorority </orgName>to do is to examine
 its feelings and see what is real
 and meaningful in its social and
 racial relations.</p>
@@ -121,19 +124,19 @@ of the American Negro, from his
 comfort in a native culture to
 his search for identity now.</p>
 <p>“The conference was meant
-to expose the girls to this cul­<lb/>
+to expose the <persName ref="#BW">girls</persName>to this cul­<lb/>
 ture,” said <persName><forename>Debbie</forename><surname>Jennings</surname></persName>, sec­<lb/>
   ond <persName>vice president</persName> of <orgName>Panhel</orgName>.
 “We don’t know yet how it
-will affect each sorority’s poli­<lb/>
+will affect each <orgName ref="#PH">sorority’s</orgName> poli­<lb/>
 cies.”</p>
-<p>One <persName>sorority girl</persName> commented,
-“Some of the houses are really
+<p>One <persName ref="#WW">sorority girl</persName> commented,
+“Some of the <orgName ref="#PH"><persName ref="#WW">houses</persName></orgName> are really
 for integration and others are
 dead against it. But I think
-we’ll have some <orgName>black greeks</orgName>
-next year whether some girls
-want it or not. We’re under a
+we’ll have some <persName ref="#BW">black greeks</persName>
+next year whether some <persName ref="#WW">girls</persName>
+want it or not. <persName ref="#WW">We’re</persName> under a
 lot of pressure.”</p>
       </body>
   </text>

@@ -41,6 +41,7 @@
             <edition></edition>
             <persName xml:id="BLK">Black and African American people</persName>
             <persName xml:id="MAR">Marvin A. Raps</persName>
+            <persName xml:id="JC">Jimmy Comber</persName>
             <orgName xml:id="PD">College Park Police Department</orgName>
           </bibl>
          </sourceDesc>
@@ -71,12 +72,12 @@ sidewalk facing <placeName>University
 Boulevard</placeName>.</p>
 <p>The picketers marched, brac­<l/>
 ing against the wind, singing
-“Woke up this morning with my
-mind set on freedom.” They
-bore placards reading “Make
-the Free State Free for All,”
-and “Service for All Citizens.”
-Inside the restaurant, <persName>Jimmy
+<supplied>“Woke up this morning with my
+mind set on freedom.”</supplied> They
+bore placards reading <supplied>“Make
+the Free State Free for All,”</supplied>
+and <supplied>"“Service for All Citizens.”</supplied>
+Inside the restaurant, <persName ref="JC">Jimmy
 Comber</persName> told Diamondback re­<l/>
 porters, “I don’t mind serving
 colored people. I don’t care one
@@ -92,7 +93,7 @@ tomers.”</p>
 <p>Two men walked into the res­<l/>
 taurant and offered to bring in
 dogs to “clean out the place.”
-<persName>Comber</persName> ordered them off the
+<persName ref="JC">Comber</persName> ordered them off the
 premises.</p>
 <p>At 3 p.m. the <persName ref="#BLK">sit-inners</persName> left
 en masse accompanied by de­<l/>
@@ -106,9 +107,8 @@ were ordered off the premises
 by county <orgName ref="#PD">police</orgName> and not allow­<l/>
 ed to picket because the Inn’s
 property extended to <placeName>Route 1<placeName>.
-Another group was locked out
-of the <placeName>Terrapin Inn</placeName></p>
-<p> <measure type=people quantity=6>Six</measure><persName ref="#BLK">students</placeName> were refused
+Anther group was locked out of <placeName>Terrapin Inn</placeName>.</p>
+<p> <measure type="people" quantity=6>Six</measure><persName ref="#BLK">students</placeName> were refused
 service at <placeName>Ye Olde Dutch Inn</placeName> in
 <placeName>Riverdale</placeName>. The waitress told
 them that it was not the res­<l/>
