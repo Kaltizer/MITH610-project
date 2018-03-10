@@ -10,10 +10,16 @@
                 <orgName xml:id="UMD">University of Maryland"></orgName>
             </author>
             <respStmt>
-              <resp>encoded by</resp>
-              <persName ref="#Kaltizer">Katie Altizer</persName>
+              <resp>#Kaltizer <roleName>UMD PhD student</roleName>responsible for encoding Diambondback article for MITH610</resp>
+              <persName ref="#Kaltizer"> Katie Altizer</persName>
               </respStmt>
         </titleStmt>
+        <editionStmt>
+             <edition n="1">First edition</edition>
+         </editionStmt>
+         <extent>
+             <measure unit="pages" quantity="2">2 partial pages of original source material</measure>
+         </extent>
          <publicationStmt>
            <publisher>
              <orgName>Maryland Institute for Technology in the Humanities</orgName></publisher>
@@ -21,17 +27,21 @@
                <settlement>College Park</settlement>
                <region>Maryland</region>
             </pubPlace>
-            <date when="2017-04-05">March 5 2018</date>
+              <date when="2017-04-05">March-5-2018</date>
          </publicationStmt>
          <sourceDesc>
           <bibl>
+            <publisher>The University of Maryland</publisher>
               <title>The Diamondback</title>
-              <publisher>The University of Maryland</publisher>
               <pubPlace>
                 <settlement>College Park</settlement>
               <region>Maryland</region>
             </pubPlace>
             <date when="1962-02-27">February 27 1962</date>
+            <edition></edition>
+            <persName xml:id="BLK">Black and African American people</persName>
+            <persName xml:id="MAR">Marvin A. Raps</persName>
+            <orgName xml:id="PD">College Park Police Department</orgName>
           </bibl>
          </sourceDesc>
       </fileDesc>
@@ -47,15 +57,15 @@ rests.</p>
 <orgName>COKE</orgName>, were served without in­<l/>
 cident at <placeName>Ledo’s Restaurant</placeName> and
 the <placeName>Federal Diner</placeName>, but were re­<l/>
-fused service at Jimmy Comb­<l/>
-er’s, the <placeName>College Inn</placeName>,and the
+fused service at <placeName>Jimmy Comb­
+er’s</placeName>, the <placeName>College Inn</placeName>,and the
 <placeName>Olde Dutch Inn</placeName>. A few non-stu­<l/>
 dents demonstrated with the
 group.</p>
-<p>Nineteen white and Negro
-students sat in the main dining
-room of Jimmy Comber’s
-four hours while small, rotating
+<p>Nineteen white and <persName ref="#BLK">Negro
+students</persName> sat in the main dining
+room of <placeName>Jimmy Comber’s</placeName>
+<measure type="time" quantity="4" unit="hour">four hours</measure> while small, rotating
 groups picketed outside on the
 sidewalk facing <placeName>University
 Boulevard</placeName>.</p>
@@ -84,21 +94,21 @@ taurant and offered to bring in
 dogs to “clean out the place.”
 <persName>Comber</persName> ordered them off the
 premises.</p>
-<p>At 3 p.m. the sit-inners left
+<p>At 3 p.m. the <persName ref="#BLK">sit-inners</persName> left
 en masse accompanied by de­<l/>
 risive applause from the pa­<l/>
 trons of the restaurant.
-A smaller group of demon­<l/>
-strators was locked out of the
+A smaller group of <persName ref="#BLK">demon­
+strators</persName> was locked out of the
 <placeName>College Inn</placeName> on <placeName>Route 1</placeName> before
 they could gain entrance. They
 were ordered off the premises
-by county <orgName>police</orgName> and not allow­<l/>
+by county <orgName ref="#PD">police</orgName> and not allow­<l/>
 ed to picket because the Inn’s
 property extended to <placeName>Route 1<placeName>.
 Another group was locked out
-of the <placeName>Terrapin Inn</placeName>.</p>
-<p>Six students were refused
+of the <placeName>Terrapin Inn</placeName></p>
+<p> <measure type=people quantity=6>Six</measure><persName ref="#BLK">students</placeName> were refused
 service at <placeName>Ye Olde Dutch Inn</placeName> in
 <placeName>Riverdale</placeName>. The waitress told
 them that it was not the res­<l/>
@@ -106,11 +116,11 @@ taurant’s policy to serve mixed
 groups. The group read the
 fourteenth amendment to the
 <persName>manager</persName> and left.</p>
-<p><persName><forename>Marvin A.</forename><surname>Raps</surname></persName>, president of
+<p><persName ref="MAR"><forename>Marvin A.</forename><surname>Raps</surname></persName>, president of
 the <placeName>Prince George's County</placeName>
 <orgName>CORE</orgName>, called the demonstra­<l/>
 tions “very effective.”</p>
-<p><persName>Raps </persName>is a graduate student at
+<p><persName ref="MAR">Raps</persName>is a graduate student at Maryland.
 He was arrested on
 <date when="1962-1-27">Jan. 27</date> at a sit-in at <placeName>Park Col­<l/>
 lege Diner<placeName>. The case was thrown

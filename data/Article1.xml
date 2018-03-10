@@ -8,16 +8,23 @@
             <title type="main">"Negro woman has a culture"</title>
             <title type="sub"> Panhel hears black Dean</title>
               <title type="sub">Digital Edition</title>
-            <author><persName xml:id="Kaltizer">Katie Altizer</persName><orgName>University of Maryland</orgName>
+            <author><persName xml:id="Kaltizer"><forename>Katie</forename><surname>Altizer</surname></persName><orgName>University of Maryland</orgName>
           </author>
-          <respStnt>
-            <resp> Encoded by </resp>
+          <respStmt>
+            <resp>#Kaltizer <roleName>UMD PhD student</roleName>responsible for encoding Diambondback article for MITH610</resp>
             <persName ref="#Kaltizer"> Katie Altizer</persName>
+          </respStmt>
          </titleStmt>
+         <editionStmt>
+           <edition n="1">First edition</edition>
+       </editionStmt>
+       <extent>
+           <measure unit="pages" quantity="1">1 partial page of original source material</measure>
+       </extent>
          <publicationStmt>
             <publisher> Maryland Institute of Technology in the Humanities </publisher>
             <pubPlace> <settlement>College Park </settlement><region>MD</region></pubPlace>
-            <date when=2018-4-3">March 4 2018></date>
+            <date when="2018-04-03">March 4 2018></date>
          </publicationStmt>
          <sourceDesc>
            <bibl>
@@ -27,10 +34,15 @@
                <settlement>College Park</settlement>
                <region>MD</region>
              </pubPlace>
-               <date when="1969-4-14"> April 14 1969 </date>
+               <date when="1969-04-14"> April 14 1969 </date>
           </bibl>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+             <language ident="en-US">United States English</language>
+         </langUsage>
+       </profileDesc>
   </teiHeader>
   <text>
       <body>
@@ -40,15 +52,14 @@ white society. She has her own
 culture, according to a <orgName>Federal
 City College</orgName> official.</p>
 <p>This was the brunt of the speech
-given by <persName><forename>Barbara</forename><surname>Hatton</surname></persName>,
-as­<lb/>
+given by <persName><forename>Barbara</forename><surname>Hatton</surname></persName>,as­<lb/>
 sistant dean of student services
 at <orgName>FCC</orgName>, to an attentive audience
 of about 600 at a <orgName>Panhellenic</orgName> con­<lb/>
 ference in the <placeName>chapel</placeName> Saturday
-morning.</p
-of about 600 at a Panhellenic con­<lb/>
-ference in the <placeName>chapel</placeName> <date=" 1969-04-12">Saturday
+morning.</p>
+<p>of about 600 at a Panhellenic con­<lb/>
+ference in the <placeName>chapel</placeName> <date>=" 1969-04-12">Saturday
 morning</date>.</p>
 <p>Speaking without notes, <persName>Miss
 Hatton</persName> attempted to give the
@@ -59,8 +70,8 @@ lation to racial integration.</p>
 people (blacks) into a white thing
 isn’t wanted anymore,” <persName>Miss
   <surname>Hatton</surname></persName> said.</p>
-<p>According to her, black col­<lb/>
-lege women now have their own
+<p>According to her, black
+col­lege women now have their own
 concept of beauty and culture
 and it has nothing to do with the
 “narrow concepts we get from
@@ -104,7 +115,7 @@ and one in honor of a great war<lb/>f­
 rior.</p>
 <p>The conference also hosted a
 preview of the <orgName>Black Student
-  <sic>Uhion</sic> dancers</orgName>’recital. The
+Union dancers</orgName>’recital. The
 theme of the program was history
 of the American Negro, from his
 comfort in a native culture to
@@ -116,11 +127,11 @@ ture,” said <persName><forename>Debbie</forename><surname>Jennings</surname></
 “We don’t know yet how it
 will affect each sorority’s poli­<lb/>
 cies.”</p>
-        <p>One <persName>sorority girl</persName> commented,
+<p>One <persName>sorority girl</persName> commented,
 “Some of the houses are really
 for integration and others are
 dead against it. But I think
-  we’ll have some <orgName>black greeks</orgName>
+we’ll have some <orgName>black greeks</orgName>
 next year whether some girls
 want it or not. We’re under a
 lot of pressure.”</p>
