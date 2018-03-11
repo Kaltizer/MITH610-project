@@ -47,8 +47,11 @@
             <date when="1962-02-27">February 27 1962</date>
             <edition></edition>
             <persName xml:id="BLK">Black and African American people</persName>
+            <persName xml:id="WHT">White people</persName>
             <persName xml:id="MAR"><forename>Marvin A.</forename><surname>Raps</surname></persName>
             <persName xml:id="JC"><forename>Jimmy</forename><surname>Comber</surname></persName>
+            <orgName ref="CORE">The Congress of Racial Equality</orgName>
+            <orgName ref="UMD">The University of Maryland</orgName>
             <orgName xml:id="PD">College Park Police Department</orgName>
           </bibl>
          </sourceDesc>
@@ -56,13 +59,13 @@
   </teiHeader>
   <text>
       <body>
-         <p>Forty University of Maryland
+         <p><measure type="people" quantity=40>Forty</measure> University of Maryland
 students attempted sit-ins Sat­
 urday at five College Park area
-restaurants. There were no ar<l/>­
-rests.</p>
+restaurants. There were no <orgName ref="PD">ar<l/>­
+rests</orgName>.</p>
 <p>The students, members of
-<orgName>COKE</orgName>, were served without in­<l/>
+<orgName ref="CORE">CORE</orgName>, were served without in­<l/>
 cident at <placeName>Ledo’s Restaurant</placeName> and
 the <placeName>Federal Diner</placeName>, but were re­<l/>
 fused service at <placeName>Jimmy Comb­
@@ -87,16 +90,14 @@ and <supplied>"“Service for All Citizens.”</supplied>
 Inside the restaurant, <persName ref="JC">Jimmy
 Comber</persName> told Diamondback re­<l/>
 porters, “I don’t mind serving
-colored people. I don’t care one
-way or another; but I think my
-clientele would mind, so I don’t
+<persName ref="#BLK">colored people</persName>. I don’t care one
+way or another; but I think <persName ref:"WHT">my clientele</persName> would mind, so I don’t
 serve them.</p>
 <p>“I wish the state of Mary­
 land would pass a law requir­<l/>
 ing equal service so that I
 could serve everyone without
-objection from my regular cus­<l/>
-tomers.”</p>
+objection from <persName ref:"WHT">my regular customers</persName>.”</p>
 <p>Two men walked into the res­<l/>
 taurant and offered to bring in
 dogs to “clean out the place.”
@@ -104,8 +105,7 @@ dogs to “clean out the place.”
 premises.</p>
 <p>At 3 p.m. the <persName ref="#BLK">sit-inners</persName> left
 en masse accompanied by de­<l/>
-risive applause from the pa­<l/>
-trons of the restaurant.
+risive applause from the <persName ref:"WHT">patrons</persName>of the restaurant.
 A smaller group of <persName ref="#BLK">demon­
 strators</persName> was locked out of the
 <placeName>College Inn</placeName> on <placeName>Route 1</placeName> before
@@ -121,14 +121,14 @@ service at <placeName>Ye Olde Dutch Inn</placeName> in
 them that it was not the res­<l/>
 taurant’s policy to serve mixed
 groups. The group read the
-fourteenth amendment to the
+<supplied>fourteenth amendment</supplied> to the
 <persName>manager</persName> and left.</p>
 <p><persName ref="MAR"><forename>Marvin A.</forename><surname>Raps</surname></persName>, president of
 the <placeName>Prince George's County</placeName>
-<orgName>CORE</orgName>, called the demonstra­<l/>
+<orgName ref="CORE">CORE</orgName>, called the demonstra­<l/>
 tions “very effective.”</p>
-<p><persName ref="MAR">Raps</persName>is a graduate student at Maryland.
-He was arrested on
+<p><persName ref="MAR">Raps</persName>is a graduate student at <orgName ref="UMD">Maryland</orgName>.
+He was <orgName ref="PD">arrested</orgName>on
 <date when="1962-1-27">Jan. 27</date> at a sit-in at <placeName>Park Col­<l/>
 lege Diner<placeName>. The case was thrown
 out.</p>
