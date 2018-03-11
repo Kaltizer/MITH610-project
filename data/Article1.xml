@@ -8,11 +8,11 @@
             <title type="main">"Negro woman has a culture"</title>
             <title type="sub"> Panhel hears black Dean</title>
               <title type="sub">Digital Edition</title>
-            <author><persName xml:id="Kaltizer"><forename>Katie</forename><surname>Altizer</surname></persName><orgName>University of Maryland</orgName>
+            <author><roleName>staff writer<persName xml:id="JM"><forename>Joyce</forename><surname>Marshall</surname></persName></roleName><orgName>University of Maryland</orgName>
           </author>
           <respStmt>
             <resp>#Kaltizer <roleName>UMD PhD student</roleName>responsible for encoding Diambondback article for MITH610</resp>
-            <persName ref="#Kaltizer"> Katie Altizer</persName>
+            <persName ref="#Kaltizer"><forename>Katie</forename><surname>Altizer</surname></persName>
           </respStmt>
          </titleStmt>
          <editionStmt>
@@ -38,7 +38,7 @@
                <edition></edition>
                <persName xml:id="BW">Black and African American women</persName>
                <persName xml:id="WW">White women</persName>
-               <persName xml:id="BH">Barbara Hatton</persName>
+               <persName xml:id="BH"><forename>Barbara</forename><surname>Hatton</surname></persName>
                <orgName xml:id="PH">Panhellenic Conference-identifies collective segregated sororities on University of Maryland campus</orgName>
                <orgName ref="FCC">Federal City College</orgName>
           </bibl>
