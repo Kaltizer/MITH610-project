@@ -62,10 +62,10 @@
         <p><measure type="people" quantity="40">Forty</measure> University of Maryland
 students attempted sit-ins Sat­
 urday at five College Park area
-restaurants. There were no <orgName ref="PD">ar<lb/>­
+restaurants. There were no <orgName ref="#PD">ar<lb/>­
 rests</orgName>.</p>
 <p>The students, members of
-<orgName ref="CORE">CORE</orgName>, were served without in­<lb/>
+<orgName ref="#CORE">CORE</orgName>, were served without in­<lb/>
 cident at <placeName>Ledo’s Restaurant</placeName> and
 the <placeName>Federal Diner</placeName>, but were re­<lb/>
 fused service at <placeName>Jimmy Comb­
@@ -87,7 +87,7 @@ mind set on freedom.”</supplied> They
 bore placards reading <supplied>“Make
 the Free State Free for All,”</supplied>
 and <supplied>"“Service for All Citizens.”</supplied>
-Inside the restaurant, <persName ref="JC">Jimmy
+Inside the restaurant, <persName ref="#JC">Jimmy
 Comber</persName> told Diamondback re­<lb/>
 porters, “I don’t mind serving
 <persName ref="#BLK">colored people</persName>. I don’t care one
@@ -101,7 +101,7 @@ objection from <persName ref="#WHT">my regular customers</persName>.”</p>
 <p>Two men walked into the res­<lb/>
 taurant and offered to bring in
 dogs to “clean out the place.”
-<persName ref="JC">Comber</persName> ordered them off the
+<persName ref="#JC">Comber</persName> ordered them off the
 premises.</p>
 <p>At 3 p.m. the <persName ref="#BLK">sit-inners</persName> left
 en masse accompanied by de­<lb/>
@@ -125,10 +125,10 @@ groups. The group read the
 <persName>manager</persName> and left.</p>
 <p><persName ref="MAR"><forename>Marvin A.</forename><surname>Raps</surname></persName>, president of
 the <placeName>Prince George's County</placeName>
-<orgName ref="CORE">CORE</orgName>, called the demonstra­<lb/>
+<orgName ref="#CORE">CORE</orgName>, called the demonstra­<lb/>
 tions “very effective.”</p>
-<p><persName ref="MAR">Raps</persName>is a graduate student at <orgName ref="UMD">Maryland</orgName>.
-He was <orgName ref="PD">arrested</orgName>on
+<p><persName ref="#MAR">Raps</persName>is a graduate student at <orgName ref="UMD">Maryland</orgName>.
+He was <orgName ref="#PD">arrested</orgName>on
 <date when="1962-01-27">Jan. 27</date> at a sit-in at <placeName>Park Col­<lb/>
 lege Diner</placeName>. The case was thrown
 out.</p>
