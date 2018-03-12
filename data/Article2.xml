@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
       <body>
-         <p><measure type="people" quantity=40>Forty</measure> University of Maryland
+        <p><measure type="people" quantity="40">Forty</measure> University of Maryland
 students attempted sit-ins Sat­
 urday at five College Park area
 restaurants. There were no <orgName ref="PD">ar<l/>­
