@@ -7,6 +7,13 @@
          <titleStmt>
             <title type="main">"Negro woman has a culture:" Panhel hears black dean - 14 April 1969</title>
             <title type="sub">Digital Edition</title>
+            <author>
+                <persName xml:id="Kaltizer">
+                    <forename>Katie</forename>
+                    <surname>Altizer</surname>
+                </persName>
+                <orgName xml:id="UMD">University of Maryland</orgName>
+            </author>
           <respStmt>
             <resp>Encoded by<persName ref="#Kaltizer"> <forename>Katie</forename><surname>Altizer</surname></persName></resp>
             <orgName>University of Maryland</orgName>
