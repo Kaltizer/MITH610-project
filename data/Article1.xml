@@ -5,7 +5,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>"Negro woman has a culture:" Panhel hears black dean - 14 April 1969</title>
+            <title type="main">"Negro woman has a culture:" Panhel hears black dean - 14 April 1969</title>
+            <title type="sub">Digital Edition</title>
           <respStmt>
             <resp>Encoded by<persName ref="#Kaltizer"> <forename>Katie</forename><surname>Altizer</surname></persName></resp>
             <orgName>University of Maryland</orgName>

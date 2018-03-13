@@ -5,7 +5,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>40 Stage Sit-Ins; No Arrests - Diamondback Student Newspaper - 27 February 1962</title>
+            <title type="main">40 Stage Sit-Ins; No Arrests - Diamondback Student Newspaper - 27 February 1962</title>
+            <title type="sub">Digital Edition</title>
             <respStmt>
               <resp>Encoded by<persName ref="#Kaltizer"> <forename>Katie</forename><surname>Altizer</surname></persName></resp>
               <orgName>University of Maryland</orgName>
@@ -47,6 +48,7 @@
             <persName xml:id="WHT">White people</persName>
             <persName xml:id="MAR"><forename>Marvin A.</forename><surname>Raps</surname></persName>
             <persName xml:id="JC"><forename>Jimmy</forename><surname>Comber</surname></persName>
+            <note>I orginally used all of the the preceding tags in order to contrast the large number of white voices with the absence of black and African American voices in the article; I ultimately decided to highlight the black people and voices with persName tags in the article in order to highlight the spaces from which they were excluded</note>
             <orgName ref="CORE">The Congress of Racial Equality</orgName>
             <orgName ref="UMD">The University of Maryland</orgName>
             <orgName xml:id="PD">College Park Police Department</orgName>
@@ -60,7 +62,7 @@
         <head rend="center"><title><persName>40 </persName> Stage Sit-Ins; No Arrests</title></head>
       </div>
       <div rend="center">
-        <byline> By <persName>Jack Prial,</persName> <roleName> Managing Editor</roleName></byline>
+        <byline> By Jack Prial, <roleName> Managing Editor</roleName></byline>
       </div>
       <div>
         <p><measure type="people" quantity="40">Forty</measure> University of Maryland
