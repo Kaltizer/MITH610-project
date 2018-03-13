@@ -61,7 +61,7 @@
       <body>
          <div>
            <head rend="center">
-            <title><persName>"Negro woman</persName> has a culture": <placeName>Panhel</placeName> hears <persName>black dean</persName></title>
+            <title><persName>"Negro woman</persName> has a culture:" <placeName>Panhel</placeName> hears <persName>black dean</persName></title>
            </head>
          </div>
          <div rend="center">
@@ -70,7 +70,7 @@
          <div>
         <p>The <persName ref="#BW">Negro college woman</persName> no
 longer waits for acceptance by
-<placeName ref="SEG">white society</placeName>. She has her own
+<placeName ref="#SEG">white society</placeName>. She has her own
 culture, according to a <orgName ref="#FCC"> Federal
 City College</orgName> official.</p>
 <p>This was the brunt of the speech
@@ -93,11 +93,11 @@ col­lege women</persName> now have their own
 concept of beauty and culture
 and it has nothing to do with the
 “narrow concepts we get from
-<placeName ref="SEG">TV</placeName>."</p>
+<placeName ref="#SEG">TV</placeName>."</p>
 <p><persName ref="#BW">Black women</persName> do not want to
-be accepted as equal,<persName ref ="BH">Miss Hat<lb/>­
+be accepted as equal,<persName ref ="#BH">Miss Hat<lb/>­
 ton</persName> said.</p>
-<p>“<persName>We</persName> want to be accepted as we
+<p> “We want to be accepted as we
 are; black with our own way of
 doing things. <persName>I</persName> don’t like to
 explain away black folks. An
@@ -109,9 +109,9 @@ said.</p>
 <p>“You can’t possibly love
 everybody you meet. What is
 needed in any relationship is
-pride and skills and <persName ref="BLK">we’ve
+pride and skills and <persName ref="#BLK">we’ve
 (blacks)</persName> got to bring these in.
-That’s what <persName ref="BLK">we're</persName> doing now.”</p>
+That’s what <persName ref="#BLK">we're</persName> doing now.”</p>
 <p><persName>Miss Hatton</persName> concluded by say­<lb/>
 ing that the important thing for
 each <orgName ref="#PH">sorority</orgName> to do is to examine
@@ -143,7 +143,7 @@ to expose the girls to this cul­<lb/>
 ture,” said Debbie Jennings, sec­<lb/>
 ond vice president of <orgName ref="#PH">Panhel</orgName>.
 “We don’t know yet how it
-will affect each <placeName>sorority’s</placeName> poli­<lb/>
+will affect each <orgName ref="#PH">sorority’s</orgName> poli­<lb/>
 cies.”</p>
 <p>One sorority girl commented,
 “Some of the <placeName>houses</placeName> are really
