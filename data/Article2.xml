@@ -5,12 +5,9 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>"Negro woman has a culture:" Panhel hears black dean - Diamondback Student Newspaper - 27 February 1962</title>
-              <author><persName xml:id="JP"><forename>Katie</forename><surname>Altizer</surname></persName><roleName>PhD Student</roleName>
-                 <orgName xml:id="UMD">University of Maryland"></orgName>
-            </author>
+            <title>40 Stage Sit-Ins; No Arrests - Diamondback Student Newspaper - 27 February 1962</title>
             <respStmt>
-              <resp>Encoded by<persName ref="#Kaltizer"><forename>Katie</forename><surname>Altizer</surname></persName></resp>
+              <resp>Encoded by<persName ref="#Kaltizer"> <forename>Katie</forename><surname>Altizer</surname></persName></resp>
               <orgName>University of Maryland</orgName>
             </respStmt>
         </titleStmt>

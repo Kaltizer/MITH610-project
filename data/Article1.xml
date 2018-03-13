@@ -5,13 +5,10 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">"Negro woman has a culture"</title>
-            <title type="sub"> Panhel hears black Dean</title>
-            <author><roleName>Staff Writer<persName xml:id="JM"> <forename>Joyce</forename><surname>Marshall</surname></persName></roleName><orgName>University of Maryland</orgName>
-          </author>
+            <title>"Negro woman has a culture:" Panhel hears black dean - 14 April 1969</title>
           <respStmt>
-            <resp>#Kaltizer <roleName>UMD PhD student</roleName>responsible for encoding Diambondback article for MITH610</resp>
-            <persName ref="#Kaltizer"><forename>Katie</forename><surname>Altizer</surname></persName>
+            <resp>Encoded by<persName ref="#Kaltizer"> <forename>Katie</forename><surname>Altizer</surname></persName></resp>
+            <orgName>University of Maryland</orgName>
           </respStmt>
          </titleStmt>
          <editionStmt>
