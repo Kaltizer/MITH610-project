@@ -37,6 +37,7 @@
                <edition></edition>
                <persName xml:id="BW">Black and African American women</persName>
                <persName xml:id="WW">White women</persName>
+               <note> I originally created the preceding two tags in order to map race and gender in the text; I ultimately decided to use the persName to highlight black men and women</note>
                <persName xml:id="BH"><forename>Barbara</forename><surname>Hatton</surname></persName>
                <orgName xml:id="PH">Panhellenic Conference-identifies collective segregated sororities on University of Maryland campus</orgName>
                <orgName ref="FCC">Federal City College</orgName>
@@ -71,17 +72,16 @@ given by <persName ref="BH"><forename>Barbara</forename><surname> Hatton</surnam
 sistant dean of <orgName>student services</orgName>
 at <orgName ref="#FCC">FCC</orgName>, to an attentive audience
 of about 600 at a <orgName ref="#PH">Panhellenic</orgName> con­<lb/>
-ference in the <placeName>chapel </placeName><date when="1969-04-12"> Saturday
+ference in the <placeName>chapel</placeName><date when="1969-04-12"> Saturday
 morning. </date></p>
 <p>Speaking without notes, <persName ref="#BH">Miss<lb/>
 Hatton</persName> attempted to give the
 sorority girls an idea of where
-the <placeName>greek system</placeName> stands in re­<lb/>
+the <orgName>greek system</orgName> stands in re­<lb/>
 lation to racial integration.</p>
 <p>“Rushing out and bringing
-<persName ref="#BLK">people </persName><persName ref="BLK"> (blacks)</persName>into a <placeName>white thing </placeName>
-isn’t wanted anymore,” <persName>Miss
-  <surname> Hatton</surname></persName> said.</p>
+<persName ref="#BLK">people </persName><persName ref="BLK">(blacks)</persName> into a <placeName>white thing</placeName>
+isn’t wanted anymore,” <persName>Miss<surname>Hatton</surname></persName> said.</p>
 <p>According to her, <persName ref="#BW">black
 col­lege women</persName> now have their own
 concept of beauty and culture
@@ -91,9 +91,9 @@ and it has nothing to do with the
 <p><persName ref="#BW">Black women</persName> do not want to
 be accepted as equal,<persName ref ="BH">Miss Hat<lb/>­
 ton</persName> said.</p>
-<p>“We want to be accepted as we
+<p>“<persName>We</persName> want to be accepted as we
 are; black with our own way of
-doing things. I don’t like to
+doing things. <persName>I</persName> don’t like to
 explain away black folks. An
 explanation shouldn’t be needed.”
 An attitude generally confused
@@ -104,11 +104,11 @@ said.</p>
 everybody you meet. What is
 needed in any relationship is
 pride and skills and <persName ref="BLK">we’ve
-(blacks) </persName> got to bring these in.
-That’s what <persName ref="BLK">we're</persName>doing now.”</p>
+(blacks)</persName> got to bring these in.
+That’s what <persName ref="BLK">we're</persName> doing now.”</p>
 <p><persName>Miss Hatton</persName> concluded by say­<lb/>
 ing that the important thing for
-each <orgName ref="#PH">sorority </orgName>to do is to examine
+each <orgName ref="#PH">sorority</orgName> to do is to examine
 its feelings and see what is real
 and meaningful in its social and
 racial relations.</p>
