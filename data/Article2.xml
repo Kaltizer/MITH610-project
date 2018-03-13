@@ -11,6 +11,20 @@
               <resp>Encoded by<persName ref="#Kaltizer"> <forename>Katie</forename><surname>Altizer</surname></persName></resp>
               <orgName>University of Maryland</orgName>
             </respStmt>
+            <respStmt>
+              <resp>In-class training, examples, troubleshooting help and original TEI template provided by</resp>
+                <persName>Raffaele Viglianti and Jessica Lu</persName>
+            </respStmt>
+            <respStmt>
+              <resp>Student newspapers archived, digitized, and provided by</resp>
+              <orgName xml:id="UA">University Archives
+                <placeName>University of Maryland
+            <settlement>College Park</settlement>
+            <region>Maryland</region>
+        </placeName>
+    </orgName>
+</respStmt>
+      <funder>Arthur K. Wheelock Fellowship - Smith Family Fellowships</funder>
         </titleStmt>
         <editionStmt>
              <edition n="1">First edition</edition>
