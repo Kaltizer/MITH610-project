@@ -8,4 +8,4 @@ tei-teiHeader {
 }
 tei-supplied {color: red;}
 
-tei-persName ref="WW" {color: SeaGreen;}
+tei-persName {color: SeaGreen;}
