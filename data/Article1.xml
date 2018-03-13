@@ -37,6 +37,7 @@
                <persName xml:id="WW">White women</persName>
                <note> I originally created the preceding two tags in order to map race and gender in the text; I ultimately decided to use the persName to highlight black men and women</note>
                <persName xml:id="BH"><forename>Barbara</forename><surname>Hatton</surname></persName>
+               <placeName xml:id="SEG">Markes spaces from which black and African American people were/are excluded</placeName>
                <orgName xml:id="PH">Panhellenic Conference-identifies collective segregated sororities on University of Maryland campus</orgName>
                <orgName ref="FCC">Federal City College</orgName>
           </bibl>
@@ -62,7 +63,7 @@
          <div>
         <p>The <persName ref="#BW">Negro college woman</persName> no
 longer waits for acceptance by
-<placeName>white society</placeName>. She has her own
+<placeName ref="SEG">white society</placeName>. She has her own
 culture, according to a <orgName ref="#FCC"> Federal
 City College</orgName> official.</p>
 <p>This was the brunt of the speech
@@ -75,7 +76,7 @@ morning. </date></p>
 <p>Speaking without notes, <persName ref="#BH">Miss<lb/>
 Hatton</persName> attempted to give the
 sorority girls an idea of where
-the <orgName>greek system</orgName> stands in re­<lb/>
+the <orgName ref="PH">greek system</orgName> stands in re­<lb/>
 lation to racial integration.</p>
 <p>“Rushing out and bringing
 <persName ref="#BLK">people </persName><persName ref="BLK">(blacks)</persName> into a <placeName>white thing</placeName>
@@ -85,7 +86,7 @@ col­lege women</persName> now have their own
 concept of beauty and culture
 and it has nothing to do with the
 “narrow concepts we get from
-<placeName>TV</placeName>."</p>
+<placeName ref="SEG">TV</placeName>."</p>
 <p><persName ref="#BW">Black women</persName> do not want to
 be accepted as equal,<persName ref ="BH">Miss Hat<lb/>­
 ton</persName> said.</p>
