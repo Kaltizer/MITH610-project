@@ -59,6 +59,10 @@
   </teiHeader>
   <text>
       <body>
+        <div>
+        <head rend="center"><title>40 Stage Sit-Ins; No Arrests</title></head>
+      </div>
+      <div>
         <p><measure type="people" quantity="40">Forty</measure> University of Maryland
 students attempted sit-ins Sat­
 urday at five College Park area
@@ -132,6 +136,7 @@ He was <orgName ref="#PD">arrested</orgName> on
 <date when="1962-01-27">Jan. 27</date> at a sit-in at <placeName>Park Col­<lb/>
 lege Diner</placeName>. The case was thrown
 out.</p>
+</div>
       </body>
   </text>
 </TEI>

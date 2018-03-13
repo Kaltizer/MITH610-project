@@ -8,6 +8,6 @@ tei-teiHeader {
 }
 tei-supplied {color: red;}
 
-tei-persName ref="WW" {color: SeaGreen;}
-tei-persName ref="BLK" {color: Yellow;}
-tei-orgName ref="PD" {color: Tomato;}
+tei-persName xml:id="WW" {color: SeaGreen;}
+tei-persName xml:id="BLK" {color: Yellow;}
+tei-orgName xml:id="PD" {color: Tomato;}
