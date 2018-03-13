@@ -3,9 +3,9 @@
   margin: 0 0 1em 0;
 }
 
-tei-teiHeader {
+tei-teiHeader {color: Navy; decoration: underline}
   display: none;
 }
-tei-supplied {color: red;}
 
-tei-persName {color: SeaGreen;}
+
+tei-placeName {color: SeaGreen;}
