@@ -53,6 +53,12 @@
   </teiHeader>
   <text>
       <body>
+         <div>
+           <head rend="center">
+            <title>"Negro woman has a culture: Panhel hears black dean"</title>
+           </head>
+         </div>
+         <div>
         <p>The <persName ref="#BW">Negro college woman</persName> no
 longer waits for acceptance by
 white society. She has her own
@@ -139,6 +145,7 @@ we’ll have some <persName ref="#BW">black greeks</persName>
 next year whether some <persName ref="#WW">girls</persName>
 want it or not. <persName ref="#WW">We’re</persName> under a
 lot of pressure.”</p>
+        </div>
       </body>
   </text>
 </TEI>
