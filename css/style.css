@@ -3,7 +3,7 @@
   margin: 0 0 1em 0;
 }
 
-tei-teiHeader {
+tei-teiHeader {color : Green;}
   display: none;
 }
 tei-placeName {color : red;}
