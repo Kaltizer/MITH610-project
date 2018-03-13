@@ -61,7 +61,7 @@
       <body>
          <div>
            <head rend="center">
-            <title><persName>"Negro woman</persName> has a culture:" <placeName>Panhel</placeName> hears <persName>black dean</persName></title>
+            <title><persName ref="#BLK">"Negro woman</persName> has a culture:" <orgName ref="#PH">Panhel</orgName> hears <persName ref="#BH">black dean</persName></title>
            </head>
          </div>
          <div rend="center">
@@ -74,20 +74,20 @@ longer waits for acceptance by
 culture, according to a <orgName ref="#FCC"> Federal
 City College</orgName> official.</p>
 <p>This was the brunt of the speech
-given by <persName ref="BH"><forename>Barbara</forename><surname> Hatton</surname></persName>, as­<lb/>
+given by <persName ref="#BH"><forename>Barbara</forename><surname> Hatton</surname></persName>, as­<lb/>
 sistant dean of <orgName>student services</orgName>
 at <orgName ref="#FCC">FCC</orgName>, to an attentive audience
 of about 600 at a <orgName ref="#PH">Panhellenic</orgName> con­<lb/>
-ference in the <placeName>chapel</placeName> <date when="1969-04-12"> Saturday
+ference in the <placeName ref="#SEG">chapel</placeName> <date when="1969-04-12"> Saturday
 morning.</date> </p>
 <p>Speaking without notes, <persName ref="#BH">Miss<lb/>
 Hatton</persName> attempted to give the
 sorority girls an idea of where
-the <orgName ref="PH">greek system</orgName> stands in re­<lb/>
+the <orgName ref="#PH">greek system</orgName> stands in re­<lb/>
 lation to racial integration.</p>
 <p>“Rushing out and bringing
-<persName ref="#BLK">people</persName> <persName ref="BLK">(blacks)</persName> into a <placeName>white thing</placeName>
-isn’t wanted anymore,” <persName>Miss<surname>Hatton</surname></persName> said.</p>
+<persName ref="#BLK">people</persName> <persName ref="BLK">(blacks)</persName> into a <placeName ref="SEG">white thing</placeName>
+isn’t wanted anymore,” <persName ref="#BH">Miss Hatton</persName> said.</p>
 <p>According to her, <persName ref="#BW">black
 col­lege women</persName> now have their own
 concept of beauty and culture
@@ -112,14 +112,14 @@ needed in any relationship is
 pride and skills and <persName ref="#BLK">we’ve
 (blacks)</persName> got to bring these in.
 That’s what <persName ref="#BLK">we're</persName> doing now.”</p>
-<p> <persName>Miss Hatton</persName> concluded by say­<lb/>
+<p> <persName ref:#"BH">Miss Hatton</persName> concluded by say­<lb/>
 ing that the important thing for
 each <orgName ref="#PH">sorority</orgName> to do is to examine
 its feelings and see what is real
 and meaningful in its social and
 racial relations.</p>
 <p>The speech was preceded by a
-poetry reading by <persName>Adwole</persName>, a poet
+poetry reading by <persName ref:#"BLK">Adwole</persName>, a poet
 from <orgName>Afro-American Living Arts
 of Washington</orgName>. The poems ranged
 in message from utopian brother­<lb/>
@@ -146,7 +146,7 @@ ond vice president of <orgName ref="#PH">Panhel</orgName>.
 will affect each <orgName ref="#PH">sorority’s</orgName> poli­<lb/>
 cies.”</p>
 <p>One sorority girl commented,
-“Some of the <placeName>houses</placeName> are really
+“Some of the <placeName ref:#"SEG">houses</placeName> are really
 for integration and others are
 dead against it. But I think
 we’ll have some <persName ref="#BW">black greeks</persName>
