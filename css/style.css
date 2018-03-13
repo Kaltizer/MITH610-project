@@ -3,9 +3,7 @@
   margin: 0 0 1em 0;
 }
 
-tei-teiHeader {color: Navy; decoration: underline}
+tei-teiHeader {color: Navy;}
   display: none;
 }
-
-
-tei-placeName {color: SeaGreen;}
+tei-placeName {color : red;}
