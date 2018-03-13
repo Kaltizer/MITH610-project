@@ -7,8 +7,7 @@
          <titleStmt>
             <title type="main">"Negro woman has a culture"</title>
             <title type="sub"> Panhel hears black Dean</title>
-              <title type="sub">Digital Edition</title>
-            <author><roleName>staff writer<persName xml:id="JM"><forename>Joyce</forename><surname>Marshall</surname></persName></roleName><orgName>University of Maryland</orgName>
+            <author><roleName>Staff Writer<persName xml:id="JM"> <forename>Joyce</forename><surname>Marshall</surname></persName></roleName><orgName>University of Maryland</orgName>
           </author>
           <respStmt>
             <resp>#Kaltizer <roleName>UMD PhD student</roleName>responsible for encoding Diambondback article for MITH610</resp>
@@ -61,23 +60,23 @@
          <div>
         <p>The <persName ref="#BW">Negro college woman</persName> no
 longer waits for acceptance by
-white society. She has her own
-culture, according to a<orgName ref="#FCC"> Federal
+<placeName>white society</placeName>. She has her own
+culture, according to a <orgName ref="#FCC"> Federal
 City College</orgName> official.</p>
 <p>This was the brunt of the speech
 given by <persName><forename>Barbara</forename><surname>Hatton</surname></persName>, as­<lb/>
 sistant dean of <orgName>student services</orgName>
 at <orgName ref="#FCC">FCC</orgName>, to an attentive audience
-of about <persName ref="#WW">600</persName> at a <orgName ref="#PH">Panhellenic</orgName> con­<lb/>
-ference in the <placeName>chapel</placeName><date>="1969-04-12">Saturday
-morning</date>.</p>
+of about 600 at a <orgName ref="#PH">Panhellenic</orgName> con­<lb/>
+ference in the <placeName>chapel</placeName><date>="1969-04-12"></date>Saturday
+morning.</p>
 <p>Speaking without notes, <persName ref="#BH">Miss<lb/>
 Hatton</persName> attempted to give the
-<persName ref="#WW">sorority girls</persName> an idea of where
-the <orgName ref="#PH">greek system</orgName> stands in re­<lb/>
+sorority girls an idea of where
+the <placeName>greek system</placeName> stands in re­<lb/>
 lation to racial integration.</p>
 <p>“Rushing out and bringing
-<persName ref="#BW">people</persName>(blacks)into a <orgName ref="WW">white thing</orgName>
+<persName ref="#BW">people</persName><persName ref="BLK">(blacks)</persName>into a <placeName>white thing</placeName>
 isn’t wanted anymore,” <persName>Miss
   <surname>Hatton</surname></persName> said.</p>
 <p>According to her, <persName ref="#BW">black
@@ -131,19 +130,19 @@ of the American Negro, from his
 comfort in a native culture to
 his search for identity now.</p>
 <p>“The conference was meant
-to expose the <persName ref="#WW">girls</persName> to this cul­<lb/>
-ture,” said <persName><forename>Debbie</forename><surname> Jennings</surname></persName>, sec­<lb/>
-ond <persName>vice president</persName>of<orgName ref="#PH">Panhel</orgName>.
+to expose the girls to this cul­<lb/>
+ture,” said Debbie Jennings, sec­<lb/>
+ond vice president of <orgName ref="#PH">Panhel</orgName>.
 “We don’t know yet how it
-will affect each <orgName ref="#PH">sorority’s</orgName> poli­<lb/>
+will affect each <placeName>sorority’s</placeName> poli­<lb/>
 cies.”</p>
-<p>One <persName ref="#WW">sorority girl</persName> commented,
-“Some of the <orgName ref="#PH"><persName ref="#WW">houses</persName></orgName> are really
+<p>One sorority girl commented,
+“Some of the <placeName>houses</placeName> are really
 for integration and others are
 dead against it. But I think
 we’ll have some <persName ref="#BW">black greeks</persName>
-next year whether some <persName ref="#WW">girls</persName>
-want it or not. <persName ref="#WW">We’re</persName> under a
+next year whether some girls
+want it or not. We’re under a
 lot of pressure.”</p>
         </div>
       </body>
